@@ -1,7 +1,7 @@
 # Python_data-structure_algorithm
 
 ## 추상 데이터 타입
- +스택
+ + 스택
  +큐
  +테크
  +우선순위 큐와 힙
